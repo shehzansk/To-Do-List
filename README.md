@@ -27,7 +27,7 @@ npm run dev
 ![Screenshot 2](Screenshots/S2.png) 
 
 ## Live Demo
-[Click here to view the live project]([#](https://to-do-list-vkfr.onrender.com/))
+[Click here to view the live project](https://to-do-list-vkfr.onrender.com/)
 
 ---
 
