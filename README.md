@@ -16,7 +16,7 @@ This is a simple To-Do List project that I created a long time ago when I was le
 
 ## Installation
 ```bash
-git clone https://github.com/your-username/dolist.git
+git clone https://github.com/shehzansk/To-Do-List.git
 cd dolist
 npm install
 npm run dev
